@@ -1,0 +1,6 @@
+{
+  "name": "MirageGate Adaptive Deception & SOC Honeypot",
+  "description": "Real-time behavioral honeypot and adaptive deception gateway featuring CMU keystroke dynamics, CIC-IDS-2017 web attack classification, CERT ransomware mutation detection, and AES-256-GCM forensic hash chaining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
